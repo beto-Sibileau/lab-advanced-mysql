@@ -9,6 +9,9 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# do not track csv's
+*.csv
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
